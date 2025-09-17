@@ -18,6 +18,9 @@ $  prisma:migrate,
 $  prisma:seed
 ```
 
+## Docs
+/api/docs
+
 ## Compile and run the project
 
 ```bash
