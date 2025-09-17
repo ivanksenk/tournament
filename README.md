@@ -10,12 +10,11 @@ $ npm install
 #Запуск контейнера postgress
 $  docker-compose up -d
 $  npm install
-$  prisma:generate
 #Сброс базы 
 $  prisma:reset,
-#Запуск миграция
+#Запуск миграции
 $  prisma:migrate,
-#Добаление данных
+#Добавление данных
 $  prisma:seed
 ```
 
